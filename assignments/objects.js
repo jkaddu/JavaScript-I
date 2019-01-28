@@ -19,42 +19,42 @@ const example = {
 
 // Write your intern objects here:
 const Mitzi = {
-  id = 1,
-  name = "Mitzi",
-  email = "melloy0@psu.edu",
-  gender = "F"
+  id: 1,
+  name: "Mitzi",
+  email: "melloy0@psu.edu",
+  gender: "F"
 }
 
 const Kennan = {
-  id = 2,
-  name = "Kennan",
-  email = "kdiben1@tinypic.com",
-  gender = "M",
-  speak = function(){
+  id: 2,
+  name: "Kennan",
+  email: "kdiben1@tinypic.com",
+  gender: "M",
+  speak: function(){
     console.log("Hello, my name is Kennan!");
   }
 }
 
 const Keven = {
-  id = 3,
-  name = "Keven",
-  email = "kummery2@wikimedia.org",
-  gender = "M"
+  id: 3,
+  name: "Keven",
+  email: "kummery2@wikimedia.org",
+  gender: "M"
 }
 
 const Gannie = {
-  id = 4,
-  name = "Gannie",
-  email = "gmartinson3@illinois.edu",
-  gender = "M"
+  id: 4,
+  name: "Gannie",
+  email: "gmartinson3@illinois.edu",
+  gender: "M"
 }
 
 const Antonietta = {
-  id = 5,
-  name = "Antonietta",
-  email = "adaine5@samsung.com",
-  gender = "F"
-  multiplyNums = function(a,b){
+  id: 5,
+  name: "Antonietta",
+  email: "adaine5@samsung.com",
+  gender: "F",
+  multiplyNums: function(a,b){
     console.log(a*b);
   }
 }
