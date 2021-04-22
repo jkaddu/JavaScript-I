@@ -11,26 +11,26 @@
 
 // Example format of an intern object: 1,examples@you.edu,Example,F
 const example = {
-  "id": 0,
-  "name": "Example",
-  "email": "examples@you.edu",
-  "gender": "F"
+  id: 0,
+  name: "Example",
+  email: "examples@you.edu",
+  gender: "F"
 }
 
 // Write your intern objects here:
 
 const Mitzi = {
-  "id": 1,
-  "name": "Mitzi",
-  "email": "mmelly0@psu.edu",
-  "gender": "F"
+  id: 1,
+  name: "Mitzi",
+  email: "mmelly0@psu.edu",
+  gender: "F"
 }
 
 const Kennan = {
-  "id": 2,
-  "name": "Kennan",
-  "email": "kdiben1@tinypic.com",
-  "gender": "M",
+  id: 2,
+  name: "Kennan",
+  email: "kdiben1@tinypic.com",
+  gender: "M",
 
   "speak": function() {
     return "Hello, my name is Kennan";
@@ -38,24 +38,24 @@ const Kennan = {
 }
 
 const Keven= {
-  "id": 3,
-  "name": "Keven",
-  "email": "kmummery2@wikimedia.org",
-  "gender": "M"
+  id: 3,
+  name: "Keven",
+  email: "kmummery2@wikimedia.org",
+  gender: "M"
 }
 
 const Gannie = {
-  "id": 4,
-  "name": "Gannie",
-  "email": "gmartinson3@illinois.edu",
-  "gender": "M"
+  id: 4,
+  name: "Gannie",
+  email: "gmartinson3@illinois.edu",
+  gender: "M"
 }
 
 const Antonietta = {
-  "id": 5,
-  "name": "Antoniettai",
-  "email": "adaine5@samsung.com",
-  "gender": "F",
+  id: 5,
+  name: "Antoniettai",
+  email: "adaine5@samsung.com",
+  gender: "F",
 
   "multiplyNums": function(a, b) {
     return a * b;
