@@ -110,13 +110,13 @@ const parent = {
   },
   child: {
     name: "George",
-    age: "50",
+    age: 50,
     speak(){
       return `My name is ${this.name}!`
     },
     kid: {
       name: "Sam",
-      age: "30",
+      age: 30,
       speak(){
         return `My name is ${this.name}!`
       }

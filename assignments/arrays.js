@@ -115,18 +115,3 @@ for ( let i = 0; i < inventory.length; i++) {
 }
 
 console.log(JSON.stringify(BMWAndAudi));
-
-
-
-
-/* Extre Work */
-
-// for (let i = 0; i < 10; i++) {
-//     let coinFLip = Math.round(Math.random());
-
-//     if (coinFlip === 1) {
-//         console.log("Heads")
-//     } else {
-//         console.log("Tails")
-//     }
-// }
